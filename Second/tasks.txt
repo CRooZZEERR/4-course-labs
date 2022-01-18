@@ -1,0 +1,8 @@
+command1 1
+command2 1
+command3 4
+command4 4
+command5 4
+command6 2
+command7 2
+command8 2
